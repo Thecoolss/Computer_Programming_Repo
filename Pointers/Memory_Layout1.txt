@@ -1,0 +1,16 @@
+1. 
+An int variable occupies 4 bytes of memory.
+The variables are typically stored consecutively or with minimal padding on the stack.
+The addresses show a difference of 4 bytes: 0x16d92dfac - 0x16d92dfa8 (in magnitude) is 4. 
+
+2.
+A double typically occupies 8 bytes of memory.
+The distance between a and b would likely be 8 bytes, assuming no extra padding, as b would start immediately after a
+
+3.
+A char variable occupies 1 byte in memory, so the distance between two consectuvie chars would be 1 byte.
+
+4.
+If a was declared as int and b as double, a would occupy some space in memory (let's say it was M), so the next variable would occupy starting at M+4, but because the next variable is a double, it has to start at a multiple of 8 because it ouccupies 8 bytes,so it would start at M+8 and we would have padding of 4 bytes after variable a. Therefore, the distance would be 12 bytes.
+
+Now, if we declare a as a double and b as an int, no padding would be required, and therefore the distance would be 8 bytes.

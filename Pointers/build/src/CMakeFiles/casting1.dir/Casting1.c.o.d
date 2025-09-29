@@ -1,0 +1,28 @@
+src/CMakeFiles/casting1.dir/Casting1.c.o: \
+ /home/coolss/Computer_Programming1/Pointers/src/Casting1.c \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/stdio.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/libc-header-start.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/features.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/features-time64.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/timesize.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/long-double.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /home/coolss/miniforge3/envs/PointersEnv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h \
+ /home/coolss/miniforge3/envs/PointersEnv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdarg.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/time64.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__fpos_t.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__mbstate_t.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__fpos64_t.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__FILE.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/FILE.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/struct_FILE.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdio_lim.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/floatn.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/floatn-common.h \
+ /home/coolss/miniforge3/envs/PointersEnv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdio.h

@@ -1,0 +1,5 @@
+add_executable(pointer_basics Pointer_Basics.c)
+add_executable(mem3 Memory_Layout3.c)
+add_executable(casting1 Casting1.c)
+set(CMAKE_C_FLAGS_DEBUG "-O0 -g")
+add_executable(privilege Privilege.c)

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/coolss/Computer_Programming1/Structures/build",
+  "command": "/usr/bin/gcc -I/home/coolss/Computer_Programming1/Structures/include -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/coolss/miniforge3/envs/PointersEnv/include -g -o src/CMakeFiles/rectangle.dir/rectangle.c.o -c /home/coolss/Computer_Programming1/Structures/src/rectangle.c",
+  "file": "/home/coolss/Computer_Programming1/Structures/src/rectangle.c",
+  "output": "/home/coolss/Computer_Programming1/Structures/build/src/CMakeFiles/rectangle.dir/rectangle.c.o"
+},
+{
+  "directory": "/home/coolss/Computer_Programming1/Structures/build",
+  "command": "/usr/bin/gcc -I/home/coolss/Computer_Programming1/Structures/include -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/coolss/miniforge3/envs/PointersEnv/include -g -o src/CMakeFiles/main.dir/main.c.o -c /home/coolss/Computer_Programming1/Structures/src/main.c",
+  "file": "/home/coolss/Computer_Programming1/Structures/src/main.c",
+  "output": "/home/coolss/Computer_Programming1/Structures/build/src/CMakeFiles/main.dir/main.c.o"
+},
+{
+  "directory": "/home/coolss/Computer_Programming1/Structures/build",
+  "command": "/usr/bin/gcc -I/home/coolss/Computer_Programming1/Structures/include -I/home/coolss/Computer_Programming1/Structures/third_party -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/coolss/miniforge3/envs/PointersEnv/include -g -o tests/CMakeFiles/test_struct.dir/struct_test.c.o -c /home/coolss/Computer_Programming1/Structures/tests/struct_test.c",
+  "file": "/home/coolss/Computer_Programming1/Structures/tests/struct_test.c",
+  "output": "/home/coolss/Computer_Programming1/Structures/build/tests/CMakeFiles/test_struct.dir/struct_test.c.o"
+}
+]

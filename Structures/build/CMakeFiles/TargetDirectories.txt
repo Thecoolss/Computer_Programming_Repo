@@ -1,0 +1,12 @@
+/home/coolss/Computer_Programming1/Structures/build/CMakeFiles/test.dir
+/home/coolss/Computer_Programming1/Structures/build/CMakeFiles/edit_cache.dir
+/home/coolss/Computer_Programming1/Structures/build/CMakeFiles/rebuild_cache.dir
+/home/coolss/Computer_Programming1/Structures/build/src/CMakeFiles/rectangle.dir
+/home/coolss/Computer_Programming1/Structures/build/src/CMakeFiles/main.dir
+/home/coolss/Computer_Programming1/Structures/build/src/CMakeFiles/test.dir
+/home/coolss/Computer_Programming1/Structures/build/src/CMakeFiles/edit_cache.dir
+/home/coolss/Computer_Programming1/Structures/build/src/CMakeFiles/rebuild_cache.dir
+/home/coolss/Computer_Programming1/Structures/build/tests/CMakeFiles/test_struct.dir
+/home/coolss/Computer_Programming1/Structures/build/tests/CMakeFiles/test.dir
+/home/coolss/Computer_Programming1/Structures/build/tests/CMakeFiles/edit_cache.dir
+/home/coolss/Computer_Programming1/Structures/build/tests/CMakeFiles/rebuild_cache.dir

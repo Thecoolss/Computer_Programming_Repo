@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/coolss/Computer_Programming1/Structures/build/cmake_install.cmake",
+		"/home/coolss/Computer_Programming1/Structures/build/src/cmake_install.cmake",
+		"/home/coolss/Computer_Programming1/Structures/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

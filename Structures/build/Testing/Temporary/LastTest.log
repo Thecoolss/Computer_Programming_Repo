@@ -1,0 +1,37 @@
+Start testing: Sep 29 19:26 CEST
+----------------------------------------------------------
+1/1 Testing: test_struct
+1/1 Test: test_struct
+Command: "/home/coolss/Computer_Programming1/Structures/build/tests/test_struct"
+Directory: /home/coolss/Computer_Programming1/Structures/build/tests
+"test_struct" start time: Sep 29 19:26 CEST
+Output:
+----------------------------------------------------------
+[==========] Running 7 test cases.
+[ RUN      ] RectangleTests.area
+[       OK ] RectangleTests.area (156ns)
+[ RUN      ] RectangleTests.area_zero
+[       OK ] RectangleTests.area_zero (569ns)
+[ RUN      ] RectangleTests.area_negative_dimension
+[       OK ] RectangleTests.area_negative_dimension (66ns)
+[ RUN      ] RectangleTests.grow_basic
+[       OK ] RectangleTests.grow_basic (175ns)
+[ RUN      ] RectangleTests.grow_negative_delta_valid_result
+[       OK ] RectangleTests.grow_negative_delta_valid_result (165ns)
+[ RUN      ] RectangleTests.grow_negative_delta_zero_result
+You can't do this mutation
+
+[       OK ] RectangleTests.grow_negative_delta_zero_result (240ns)
+[ RUN      ] RectangleTests.grow_null_pointer
+[       OK ] RectangleTests.grow_null_pointer (37ns)
+[==========] 7 test cases ran.
+[  PASSED  ] 7 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_struct" end time: Sep 29 19:26 CEST
+"test_struct" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 29 19:26 CEST

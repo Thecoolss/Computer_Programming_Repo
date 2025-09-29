@@ -1,0 +1,23 @@
+DOUBLE CASE:
+
+x (int) is initialized to 0. An int is typically 4 bytes (0x00000000).
+
+*d_ptr (double) is now pointing to the memory location of x.
+
+Dereferencing *d_ptr tells the program to read 8 bytes of memory starting at the address of x and interpret those 8 bytes as a double.
+
+Since x only occupies the first 4 bytes (0x00000000), the remaining 4 bytes read by the double* will be uninitialized data from the memory immediately following x on the stack.
+
+This uninitialized data is essentially garbage values (whatever was previously in that memory location). Since this memory content changes between program executions and often contains non-zero data, the resulting 8-byte value (interpreted as a double) will almost never be 0.0, and will change each time.
+
+FLOAT CASE:
+
+x (int) is initialized to 0. An int is typically 4 bytes (0x00000000).
+
+*f_ptr (float) is now pointing to the memory location of x.
+
+Dereferencing *f_ptr tells the program to read 4 bytes of memory starting at the address of x and interpret those 4 bytes as a float.
+
+Since an int and a float are both typically 4 bytes in size, and x was initialized to 0 (meaning all 4 bytes are 0x00), the 4 bytes read will be 0x00000000.
+
+The IEEE 754 single-precision representation for 0.0 is all zero bits. Thus, interpreting 0x00000000 as a float will always yield 0.0.

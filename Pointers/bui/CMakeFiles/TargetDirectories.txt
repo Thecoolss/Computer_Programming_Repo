@@ -1,0 +1,7 @@
+/home/coolss/Computer_Programming1/Pointers/bui/CMakeFiles/edit_cache.dir
+/home/coolss/Computer_Programming1/Pointers/bui/CMakeFiles/rebuild_cache.dir
+/home/coolss/Computer_Programming1/Pointers/bui/src/CMakeFiles/pointer_basics.dir
+/home/coolss/Computer_Programming1/Pointers/bui/src/CMakeFiles/mem3.dir
+/home/coolss/Computer_Programming1/Pointers/bui/src/CMakeFiles/casting1.dir
+/home/coolss/Computer_Programming1/Pointers/bui/src/CMakeFiles/edit_cache.dir
+/home/coolss/Computer_Programming1/Pointers/bui/src/CMakeFiles/rebuild_cache.dir

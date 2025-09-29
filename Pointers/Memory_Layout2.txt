@@ -1,0 +1,2 @@
+Memory alignment dictates that each data type must be stored at multpile of their size (an int at a multiple of 4, a double at a multiple of 8, etc).
+So, whatever "Type" is, the compiler will store it at an address of a multiple of that data type, so the address &a will always be stored at a multiple of sizeof(a), and therefore the remainder(mod) &a%sizeof(a) will definitely be 0 no matter what we defined the type.

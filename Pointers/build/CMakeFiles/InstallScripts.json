@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/coolss/Computer_Programming1/Pointers/build/cmake_install.cmake",
+		"/home/coolss/Computer_Programming1/Pointers/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

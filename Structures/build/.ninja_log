@@ -1,0 +1,17 @@
+# ninja log v7
+3	201	1759166227444915197	src/CMakeFiles/rectangle.dir/rectangle.c.o	33fb89576d4edae7
+2	35	1759166289804913491	src/librectangle.a	add8b0e42c66f89b
+4	173	1759165871620932058	src/CMakeFiles/main.dir/main.c.o	a6aacc2c26d9b64f
+35	163	1759166289836913489	src/main	fb384dabb381a7a9
+3	450	1759166289804913491	tests/CMakeFiles/test_struct.dir/struct_test.c.o	153293b477d1dce6
+3	130	1759166403616909853	build.ninja	d9d15fec005d8464
+3	130	1759166403616909853	/home/coolss/Computer_Programming1/Structures/build/cmake_install.cmake	d9d15fec005d8464
+3	130	1759166403616909853	/home/coolss/Computer_Programming1/Structures/build/src/cmake_install.cmake	d9d15fec005d8464
+3	130	1759166403616909853	/home/coolss/Computer_Programming1/Structures/build/tests/cmake_install.cmake	d9d15fec005d8464
+3	130	1759166403616909853	/home/coolss/Computer_Programming1/Structures/build/CTestTestfile.cmake	d9d15fec005d8464
+3	130	1759166403616909853	/home/coolss/Computer_Programming1/Structures/build/tests/CTestTestfile.cmake	d9d15fec005d8464
+4	182	1759166403644909853	tests/test_struct	390f92238c9389b1
+4	499	1759166533020905570	tests/CMakeFiles/test_struct.dir/struct_test.c.o	153293b477d1dce6
+499	610	1759166533516905551	tests/test_struct	390f92238c9389b1
+4	359	1759166758256895017	tests/CMakeFiles/test_struct.dir/struct_test.c.o	153293b477d1dce6
+360	463	1759166758612894986	tests/test_struct	390f92238c9389b1
