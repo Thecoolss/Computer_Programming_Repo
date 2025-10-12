@@ -1,0 +1,10 @@
+
+**`environment.yml`:**
+```yaml
+name: c-project-env
+channels:
+  - conda-forge
+dependencies:
+  - cmake
+  - c-compiler
+  - make
